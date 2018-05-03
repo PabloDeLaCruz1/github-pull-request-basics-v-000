@@ -1,4 +1,4 @@
-git # Github Pull Request Basics
+# Github Pull Request Basics
 
 ## Objectives:
 
